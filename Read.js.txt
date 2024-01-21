@@ -14,3 +14,8 @@ int feature-4(){
 	feature-2 is login;
 }
 Thanks	
+
+int feature-2(){
+	feature-4 is timepass;
+}
+thanks
